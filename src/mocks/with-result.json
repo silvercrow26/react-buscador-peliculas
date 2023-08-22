@@ -1,0 +1,76 @@
+{
+    "Search": [
+        {
+            "Title": "Dragon Ball Z",
+            "Year": "1989–1996",
+            "imdbID": "tt0214341",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNGM5MTEyZDItZWNhOS00NzNkLTgwZTAtNWIzY2IzZmExOWMxXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dragon Ball Z",
+            "Year": "1989–1996",
+            "imdbID": "tt0121220",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZTI2Yzc1MTctMTIzOS00ZDljLTkzMDgtZDdiMWJiZWMxNjU2XkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dragon Ball Z: Battle of Gods",
+            "Year": "2013",
+            "imdbID": "tt2263944",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwOWJlZTYtYWFlNy00Y2NiLWEyMDgtODM0MjE3ZGZlODZiXkEyXkFqcGdeQXVyMjc2Nzg5OTQ@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dragon Ball Z Kai",
+            "Year": "2009–2015",
+            "imdbID": "tt1409055",
+            "Type": "series",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOWIxZGE4NjYtYjhjMi00NWM1LTkwOWYtZTZkOTVlYmY2MTRmXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dragon Ball Z: Resurrection &quot;F&quot;",
+            "Year": "2015",
+            "imdbID": "tt3819668",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BZjU1ZTM3MGItNDdiNS00ZjE2LTk4NTAtNTU0YmE4MDJmNjc0XkEyXkFqcGdeQXVyMzkzODQwMA@@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dragon Ball Z: Revival Fusion",
+            "Year": "1995",
+            "imdbID": "tt0142236",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BOWRiNDJlNzAtZjk3ZC00NDhjLTlmNzMtNTJiNDM2NDU3NjI2XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+            "Year": "1993",
+            "imdbID": "tt0142242",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTI3NmE2M2QtMDBhMy00N2Q5LTgxNzEtZDllNzE5ZThiNzk4XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dragon Ball Z: Wrath of the Dragon",
+            "Year": "1995",
+            "imdbID": "tt0142243",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNTg1NDdlMDMtOTRmNy00MjNjLTkxZDYtMDA3ODE1MmViMWFkXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dragon Ball Z: Tree of Might",
+            "Year": "1990",
+            "imdbID": "tt0142233",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BNzE5MmM4M2ItMDMyZC00MTc0LTgwMDUtNjc2MWZlZDU1OTBlXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+        },
+        {
+            "Title": "Dragon Ball Z: The Return of Cooler",
+            "Year": "1992",
+            "imdbID": "tt0142237",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BYTc0ZWQ3NTEtNDJhNC00MjliLWEwZTgtZDJjMjcwZTFlNmE0XkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg"
+        }
+    ],
+    "totalResults": "81",
+    "Response": "True"
+}
